@@ -9,7 +9,8 @@ Alongside development, I actively strengthen my problem-solving skills by practi
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fCThZb7N1xRfrzyYyBEVFIFwhxdFR4zY/view?usp=sharing](https://drive.google.com/file/d/1fCThZb7N1xRfrzyYyBEVFIFwhxdFR4zY/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
+# 🤝 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/prajwal-chitode-3b4a611a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwal chitode" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prajwalchitode2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prajwal chitode" height="30" width="40" /></a>
